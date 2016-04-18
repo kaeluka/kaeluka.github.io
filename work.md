@@ -28,7 +28,7 @@ I'm working on two projects:
    [Tobias Wrigstad](http://www.it.uu.se/katalog/writo649); OOPSLA'15
  - **Parallel Objects for Multicores: A Glimpse at the Parallel
    Language Encore**
-   [(Abstract, Preprint, Paper)](http://www.it.uu.se/katalog/stebr742/Encore-Glimpse) -
+   [(Abstract, Preprint, Paper)]({{ site.baseurl }}/Encore-Glimpse) -
    Stephan Brandauer,
    [Elias Castegren](http://www.it.uu.se/katalog/elica697),
    [Dave Clarke](http://www.it.uu.se/katalog/davcl820),
