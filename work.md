@@ -46,6 +46,7 @@ I'm working on two projects:
 
 # Community Effort
 
+ - [OOPSLA 2016 Artifact Evaluation Committee](http://2016.splashcon.org/track/splash-2016-artifacts)
  - [Annual Scala Workshop 2014](http://lampwww.epfl.ch/~hmiller/scala2014/) - local arrangements
  - [ECOOP 2014](http://ecoop14.it.uu.se/) - web master
  - [ECOOP 2014](http://ecoop14.it.uu.se/) - local organisation of student volunteer programme
