@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Disjointness Domains for Fine-Grained Aliasing (Paper)"
+date:   2016-04-17 13:40:22 +0200
+categories: publication
+permalink: Disjointness-Domains-for-Fine-Grained-Aliasing
+---
+
+Stephan Brandauer, Dave Clarke, Tobias Wrigstad; OOPSLA'15 -
+http://dx.doi.org/10.1145/2814270.2814280
+
+# Abstract
+
+Aliasing is crucial for supporting useful implementation patterns,
+but it makes reasoning about programs difficult. To deal with this
+problem, numerous type-based aliasing control mechanisms have been
+proposed, expressing properties such as uniqueness. Uniqueness,
+however, is black-and-white: either a reference is unique or it can
+be arbitrarily aliased; and global: excluding aliases throughout the
+entire system, making code brittle to changing
+requirements. Disjointness domains, a new approach to alias control,
+address this problem by enabling more graduations between uniqueness
+and arbitrary reference sharing. They allow expressing aliasing
+constraints local to a certain set of variables (either stack
+variables or fields) for instance that no aliasing occurs between
+variables within some set of variables but between such sets or the
+opposite, that aliasing occurs within that set but not between
+different sets. A hierarchy of disjointness domains controls the flow
+of references through a program, helping the programmer reason about
+disjointness and enforce local alias invariants. The resulting system
+supports fine-grained control of aliasing between both variables and
+objects, making aliasing explicit to programmers, compilers, and
+tooling. This paper presents a formal account of disjointness domains
+along with examples. Disjointness domains provide novel means of
+expressing may-alias kinds of constraints, which may prove useful in
+compiler optimisation and verification.
+
+# Download
+
+ - [Preprint (pdf)](http://www.it.uu.se/katalog/stebr742/Disjointness-Domains-for-Fine-Grained-Aliasing/oopsla15_brandauer_preprint.pdf)
+ - [Slides from OOPSLA (pdf)](http://www.it.uu.se/katalog/stebr742/Disjointness-Domains-for-Fine-Grained-Aliasing/disjointness_domains_slides.pdf)
+ - [Slides from OOPSLA (keynote)](http://www.it.uu.se/katalog/stebr742/Disjointness-Domains-for-Fine-Grained-Aliasing/disjointness_domains.key)
