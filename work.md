@@ -12,7 +12,7 @@ My advisor is [Tobias Wrigstad](http://www.it.uu.se/katalog/writo649), my co-adv
 I'm working on two projects:
 
  - In the Structured Aliasing project (my main project), we developed Disjointness Domains [(Abstract, Slides, Preprint)](http://www.it.uu.se/katalog/stebr742/Disjointness-Domains-for-Fine-Grained-Aliasing), a novel type abstraction for alias control.
- - In the UPSCALE project, I work on the compiler and the runtime of the parallel OO+functional language called 'Encore' [(Abstract, Preprint, Paper)](http://www.it.uu.se/katalog/stebr742/Encore-Glimpse)
+ - In the UPSCALE project, I work on the compiler and the runtime of the parallel OO+functional language called 'Encore' [(Abstract, Preprint, Paper)](http://www.it.uu.se/katalog/stebr742/Encore-Glimpse).
 
 # Publications
 
