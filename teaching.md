@@ -36,3 +36,11 @@ where people feel free to speak up at any time. Am I wrong? Interrupt
 and correct me! Am I going too fast? Tell me. Have you noticed I'm
 violating my teaching philosophy? Call me out on it. Am I
 misunderstanding what you just said? You get the drill.
+
+#### Courses
+
+* Fall 2015 - Imperative and Object Oriented Programming Methodology
+* Fall 2015 - Project CS (group project using Scrum and Erlang)
+* Fall 2014 - Imperative and Object Oriented Programming Methodology
+* Fall 2014 - Project CS (group project using Scrum and Erlang)
+* Fall 2013 - Imperative and Object Oriented Programming Methodology
