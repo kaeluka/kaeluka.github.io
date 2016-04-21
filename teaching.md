@@ -23,10 +23,10 @@ important basics.
 .. but "high" is relative. For some, passing a math course is an
 achievement; for others, it is to communicate well in a project; and
 for others yet, it means to have the courage to speak up in front of
-a large class room. My goal is to help motivate my students to
-improve, no matter how confident they are. Although you can expect to
-find *constructive* criticism in my class room, you will not find me
-holding grudges.
+a large class room. I have struggled with all these, and I was lucky
+to have teachers that motivated me. My goal is to be that teacher,
+too. Although you can expect to find *constructive* criticism in my
+class room, you will not find me holding grudges.
 
 ### I Value Interaction,
 
