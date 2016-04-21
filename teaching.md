@@ -44,3 +44,4 @@ misunderstanding what you just said? You get the drill.
 * Fall 2014 - Imperative and Object Oriented Programming Methodology
 * Fall 2014 - Project CS (group project using Scrum and Erlang)
 * Fall 2013 - Imperative and Object Oriented Programming Methodology
+* A long time ago - Artificial Intelligence
