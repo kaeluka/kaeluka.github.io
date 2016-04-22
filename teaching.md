@@ -39,6 +39,12 @@ misunderstanding what you just said? You get the drill.
 
 #### Courses
 
+--- Upcoming/Ongoing ---
+
+* Fall 2016 - <a href="http://wrigstad.com/ioopm" target="_blank">Imperative and Object Oriented Programming Methodology</a>
+
+--- Past ---
+
 * Fall 2015 - Imperative and Object Oriented Programming Methodology
 * Fall 2015 - Project CS (group project using Scrum and Erlang)
 * Fall 2014 - Imperative and Object Oriented Programming Methodology
