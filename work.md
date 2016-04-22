@@ -7,7 +7,10 @@ permalink: /work/
 I'm a PhD student. My work is on type systems for aliasing control,
 programming language design, and implementation.
 
-My advisor is [Tobias Wrigstad](http://www.it.uu.se/katalog/writo649), my co-advisor is [Dave Clarke](http://www.it.uu.se/katalog/davcl820).
+My advisor is <a href="http://www.it.uu.se/katalog/writo649"
+target="_blank">Tobias Wrigstad</a>, my co-advisor is <a
+href="http://www.it.uu.se/katalog/davcl820" target="_blank">Dave
+Clarke</a>.
 
 I'm working on two projects:
 
@@ -22,32 +25,26 @@ I'm working on two projects:
 # Publications
 
  - **Disjointness Domains for Fine-Grained Aliasing**
-   [(Abstract, Slides, Preprint)]({{ site.baseurl }}/Disjointness-Domains-for-Fine-Grained-Aliasing) -
-   Stephan Brandauer,
-   [Dave Clarke](http://www.it.uu.se/katalog/davcl820),
-   [Tobias Wrigstad](http://www.it.uu.se/katalog/writo649); OOPSLA'15
+   [(Abstract, Slides, Preprint)]({{ site.baseurl
+   }}/Disjointness-Domains-for-Fine-Grained-Aliasing) - Stephan
+   Brandauer, Dave Clarke, Tobias Wrigstad; OOPSLA'15
  - **Parallel Objects for Multicores: A Glimpse at the Parallel
-   Language Encore**
-   [(Abstract, Preprint, Paper)]({{ site.baseurl }}/Encore-Glimpse) -
-   Stephan Brandauer,
-   [Elias Castegren](http://www.it.uu.se/katalog/elica697),
-   [Dave Clarke](http://www.it.uu.se/katalog/davcl820),
-   [Francisco Fernández](http://www.it.uu.se/katalog/frafe664), Einar
-   Broch Johnsen, Ka I Pun, S. Lizeth Tapia Tarifa,
-   [Tobias Wrigstad](http://www.it.uu.se/katalog/writo649), and
-   Albert Mingkun Yang; SFM'15 (15th International School on Formal
-   Methods for the Design of Computer, Communication and Software
-   Systems: Multicore Programming)
+   Language Encore** [(Abstract, Preprint, Paper)]({{ site.baseurl
+   }}/Encore-Glimpse) - Stephan Brandauer, Elias Castegren, Dave
+   Clarke, Francisco Fernández, Einar Broch Johnsen, Ka I Pun,
+   S. Lizeth Tapia Tarifa, Tobias Wrigstad, and Albert Mingkun Yang;
+   SFM'15 (15th International School on Formal Methods for the Design
+   of Computer, Communication and Software Systems: Multicore
+   Programming)
  - **Evolving Java Programs Along Two Axes of Parallel Eval**
    [(pdf)](https://www.it.uu.se/research/upmarc/seminars/2013-02-11/intro.pdf) -
-   Johan Östlund, Stephan Brandauer,
-   [Tobias Wrigstad](http://www.it.uu.se/katalog/writo649); Languages
-   for the Multi-core Era 2012 (co-located with ECOOP)
+   Johan Östlund, Stephan Brandauer, Tobias Wrigstad; Languages for
+   the Multi-core Era 2012 (co-located with ECOOP)
 
 # Community Effort
 
- - [OOPSLA 2016 Artifact Evaluation Committee](http://2016.splashcon.org/track/splash-2016-artifacts)
- - [Annual Scala Workshop 2014](http://lampwww.epfl.ch/~hmiller/scala2014/) - local arrangements
- - [ECOOP 2014](http://ecoop14.it.uu.se/) - web master
- - [ECOOP 2014](http://ecoop14.it.uu.se/) - local organisation of student volunteer programme
- - [ECOOP 2013](http://www.lirmm.fr/ecoop13/) - Student Volunteer
+ - <a href="http://2016.splashcon.org/track/splash-2016-artifacts" target="_blank">OOPSLA 2016 Artifact Evaluation Committee</a>
+ - <a href="http://lampwww.epfl.ch/~hmiller/scala2014/" target="_blank">Annual Scala Workshop 2014</a> - local arrangements
+ - <a href="http://ecoop14.it.uu.se/" target="_blank">ECOOP 2014</a> - web master
+ - <a href="http://ecoop14.it.uu.se/" target="_blank">ECOOP 2014</a> - local organisation of student volunteer programme
+ - <a href="http://www.lirmm.fr/ecoop13/" target="_blank">ECOOP 2013</a> - Student Volunteer
