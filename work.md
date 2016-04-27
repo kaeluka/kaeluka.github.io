@@ -4,8 +4,8 @@ title: Work
 permalink: /work/
 ---
 
-I'm a PhD student. My work is on type systems for aliasing control,
-programming language design, and implementation.
+I'm a PhD student at <a href="http://www.uu.se" target="_blank">Uppsala
+University</a>, Sweden.
 
 My advisor is <a href="http://www.it.uu.se/katalog/writo649"
 target="_blank">Tobias Wrigstad</a>, my co-advisor is <a
