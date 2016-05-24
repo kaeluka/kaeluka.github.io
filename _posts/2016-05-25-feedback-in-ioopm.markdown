@@ -15,3 +15,7 @@ working.
 
  - [Slides (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/_posts/ioopm_feedback.pdf?raw=true)
  - [Slides (keynote)](https://github.com/kaeluka/kaeluka.github.io/blob/master/_posts/ioopm_feedback.key?raw=true)
+
+# Links
+
+ - <a target="_blank" href="http://wrigstad.com/ioopm">IOOPM Course Homepage (in Swedish)]</a>
