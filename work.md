@@ -7,6 +7,10 @@ permalink: /work/
 I'm a PhD student at <a href="http://www.uu.se" target="_blank">Uppsala
 University</a>, Sweden.
 
+I am also on <a target="_blank" href="http://www.linkedin.com/in/stephan-brandauer">LinkedIn</a>,
+on <a target="_blank" href="https://github.com/kaeluka">github</a>, and on <a
+target="_blank" href="https://twitter.com/sbrandauer">twitter</a>.
+
 My advisor is <a href="http://www.it.uu.se/katalog/writo649"
 target="_blank">Tobias Wrigstad</a>, my co-advisor is <a
 href="http://www.it.uu.se/katalog/davcl820" target="_blank">Dave Clarke</a>.
