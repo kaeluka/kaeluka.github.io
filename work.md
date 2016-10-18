@@ -9,7 +9,7 @@ University</a>, Sweden.
 
 I am also on <a target="_blank" href="http://www.linkedin.com/in/stephan-brandauer">LinkedIn</a>,
 on <a target="_blank" href="https://github.com/kaeluka">github</a>, and on <a
-target="_blank" href="https://twitter.com/sbrandauer">twitter</a>.
+target="_blank" href="https://twitter.com/sbrandauer">twitter</a>. I have a [CV]({{ site.baseurl }}/cv).
 
 My advisor is <a href="http://www.it.uu.se/katalog/writo649"
 target="_blank">Tobias Wrigstad</a>, my co-advisor is <a
