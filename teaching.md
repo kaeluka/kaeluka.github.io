@@ -42,6 +42,8 @@ misunderstanding what you just said? You get the drill.
 --- Upcoming/Ongoing ---
 
 * Fall 2016 - <a href="http://wrigstad.com/ioopm" target="_blank">Imperative and Object Oriented Programming Methodology</a>
+* Fall 2016 - <a href="https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=139305&uusp-locale=en" target="_blank">Algorithms and Data Structures 2</a>
+
 
 --- Past ---
 
