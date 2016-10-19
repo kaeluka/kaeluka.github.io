@@ -18,4 +18,4 @@ working.
 
 # Links
 
- - <a target="_blank" href="http://wrigstad.com/ioopm">IOOPM Course Homepage (in Swedish)]</a>
+ - <a target="_blank" href="http://wrigstad.com/ioopm">IOOPM Course Homepage (in Swedish)</a>

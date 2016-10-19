@@ -65,12 +65,22 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
-    margin-left: $spacing-unit;
+ul {
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    text-align: center;
+}
+
+ol {
+    list-style: none;
+    list-style-type: circle;
 }
 
 li {
-    > ul,
+    > ul {
+      display: inline-block;
+    }
     > ol {
          margin-bottom: 0;
     }
@@ -83,6 +93,8 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
+    font-family: $header-font-family;
+    text-align: center;
 }
 
 
