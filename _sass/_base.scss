@@ -75,6 +75,8 @@ ul {
 ol {
     list-style: none;
     list-style-type: circle;
+    margin-left: $spacing-unit;
+    margin-right: auto;
 }
 
 li {
