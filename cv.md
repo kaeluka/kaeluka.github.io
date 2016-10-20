@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+layout: no-title-page
 ---
 
 <div class="centered">
