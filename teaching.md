@@ -39,13 +39,12 @@ misunderstanding what you just said? You get the drill.
 
 #### Courses
 
---- Upcoming/Ongoing ---
+##### Upcoming/Ongoing
 
 1. Fall 2016 - <a href="http://wrigstad.com/ioopm" target="_blank">Imperative and Object Oriented Programming Methodology</a>
 1. Fall 2016 - <a href="https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=139305&uusp-locale=en" target="_blank">Algorithms and Data Structures 2</a>
 
-
---- Past ---
+##### Past
 
 1. Fall 2015 - Imperative and Object Oriented Programming Methodology
 1. Fall 2015 - Project CS (group project using Scrum and Erlang)
