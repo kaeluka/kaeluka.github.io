@@ -39,7 +39,11 @@ misunderstanding what you just said? You get the drill.
 
 #### Courses
 
-##### Upcoming/Ongoing
+##### Upcoming
+1. Fall 2017 - Secure Computer Systems
+1. Fall 2017 - Algorithms and Data Structures 2 or Language Abstractions for Parallel Programming (tbd) 
+
+##### Ongoing
 
 1. Fall 2016 - <a href="http://wrigstad.com/ioopm" target="_blank">Imperative and Object Oriented Programming Methodology</a>
 1. Fall 2016 - <a href="https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=139305&uusp-locale=en" target="_blank">Algorithms and Data Structures 2</a>
