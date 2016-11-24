@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tracing as a Service"
+title:  "Spencer: Tracing as a Service"
 date:   2016-10-29 11:41:30 +0200 
 categories: work
 permalink: spencer
