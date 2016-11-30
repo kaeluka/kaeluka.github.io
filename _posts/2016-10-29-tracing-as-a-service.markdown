@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Spencer: Tracing as a Service"
+title:  "Tracing as a Service"
 date:   2016-10-29 11:41:30 +0200 
 categories: work
 permalink: spencer
 ---
 
-<div style="width: 50%; display: block; margin: 0 auto;">
-  <img src="https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_screenshot.png?raw=true" alt="screenshot"/>
+<div style="width: 35%; display: block; margin: 0 auto;">
+  <img src="http://stbr.me/assets/spencer_logo_bright.svg" alt="Spencer logo"/>
 </div>
 
 <br/>A project I've been working on is called Spencer. Spencer is a set of tools
