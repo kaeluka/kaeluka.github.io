@@ -2,6 +2,7 @@
 layout: post
 title:  "Getting Feedback in IOOPM"
 date:   2016-05-25 00:14:10 +0200 
+comments: true
 categories: teaching
 ---
 

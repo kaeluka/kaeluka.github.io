@@ -2,6 +2,7 @@
 layout: post
 title:  "Parallel Objects for Multicores: Encore (Paper)"
 date:   2016-04-17 13:40:22 +0200
+comments: true
 categories: publication
 permalink: Encore-Glimpse
 ---
