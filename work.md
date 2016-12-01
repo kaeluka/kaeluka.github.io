@@ -15,10 +15,15 @@ target="_blank">thesis projects</a>.**
 I'm working on two projects:
 
  1. In the Structured Aliasing project (my main project), we developed
-   Disjointness Domains
+   Disjointness
+   Domains
    [(Abstract, Slides, Preprint)]({{ site.baseurl }}/Disjointness-Domains-for-Fine-Grained-Aliasing),
-   a novel type abstraction for alias control.
- 2. In the UPSCALE project, I work on the compiler and the runtime of
+   a novel type abstraction for alias control. 
+ 2. Also in the Structured Aliasing project, we are currently working
+   on [Spencer]({{ site.baseurl }}/spencer), a tool that makes it trivial
+   for a wider audience to get insights about the behaviour of programs
+   running on the JVM.
+ 3. In the UPSCALE project, I work on the compiler and the runtime of
    the parallel OO+functional language called 'Encore'
    [(Abstract, Preprint, Paper)]({{ site.baseurl }}/Encore-Glimpse).
 
