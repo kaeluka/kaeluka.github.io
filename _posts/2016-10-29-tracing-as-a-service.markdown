@@ -31,9 +31,14 @@ Since data sets -- once they are uploaded -- never change, we can apply caching
 to these queries, which will lead to the ability to analyse terabytes of data
 interactively.
 
-# Download
+# Presentations
+Tobias gave a presentation that includes Spencer:
+
+ - <iframe width="280" height="160" src="https://www.youtube.com/embed/RnXXQCH8yUg" frameborder="0" allowfullscreen></iframe>
+ - [More context..]({{site.baseurl}}/work/2016/12/02/multicore-day.html)
+
 I presented an high level overview at an
-[UpScale](https://upscale.project.cwi.nl/) meeting in Oslo a few weeks back. You
+[UpScale](https://upscale.project.cwi.nl/) meeting in the fall of 2016:
 can find the slides below.
 
 
