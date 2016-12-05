@@ -41,7 +41,8 @@ misunderstanding what you just said? You get the drill.
 
 ##### Upcoming
 1. Fall 2017 - Secure Computer Systems
-1. Fall 2017 - Algorithms and Data Structures 2 or Language Abstractions for Parallel Programming (tbd) 
+1. Fall 2017 - Introduction to Parallel Programming
+1. Fall 2017 - Language Abstractions for Parallel Programming
 
 ##### Ongoing
 
