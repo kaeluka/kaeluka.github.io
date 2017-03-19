@@ -29,25 +29,31 @@ I'm working on two projects:
 
 # Publications
 
- 1. **Disjointness Domains for Fine-Grained Aliasing**
-   [(Abstract, Slides, Preprint)]({{ site.baseurl
-   }}/Disjointness-Domains-for-Fine-Grained-Aliasing) - Stephan
-   Brandauer, Dave Clarke, Tobias Wrigstad; OOPSLA'15
- 2. **Parallel Objects for Multicores: A Glimpse at the Parallel
+ 1. **Spencer: Interactive Heap Analysis for the Masses** - Stephan Brandauer,
+    Tobias Wrigstad; *International Conference on Mining Software Repositories
+    2017* [(project page with paper, and information)](../spencer)
+ 2. **Mining for Safety using Interactive Trace Analysis** - Stephan Brandauer,
+    Tobias Wrigstad; *Workshop on Quantitative Analysis of Programming Languages
+    2017* [(project page with paper, and information)](../spencer)
+ 3. **Disjointness Domains for Fine-Grained Aliasing** - Stephan Brandauer, Dave
+   Clarke, Tobias Wrigstad; *OOPSLA'15*
+   [(Abstract, Slides, Preprint)]({{ site.baseurl }}/Disjointness-Domains-for-Fine-Grained-Aliasing)
+ 4. **Parallel Objects for Multicores: A Glimpse at the Parallel
    Language Encore** [(Abstract, Preprint, Paper)]({{ site.baseurl
    }}/Encore-Glimpse) - Stephan Brandauer, Elias Castegren, Dave
    Clarke, Francisco Fernández, Einar Broch Johnsen, Ka I Pun,
    S. Lizeth Tapia Tarifa, Tobias Wrigstad, and Albert Mingkun Yang;
-   SFM'15 (15th International School on Formal Methods for the Design
+   *SFM'15 (15th International School on Formal Methods for the Design
    of Computer, Communication and Software Systems: Multicore
-   Programming)
- 3. **Evolving Java Programs Along Two Axes of Parallel Eval**
+   Programming)*
+ 5. **Evolving Java Programs Along Two Axes of Parallel Eval**
    [(pdf)](https://www.it.uu.se/research/upmarc/seminars/2013-02-11/intro.pdf) -
-   Johan Östlund, Stephan Brandauer, Tobias Wrigstad; Languages for
-   the Multi-core Era 2012 (co-located with ECOOP)
+   Johan Östlund, Stephan Brandauer, Tobias Wrigstad; *Languages for
+   the Multi-core Era 2012 (co-located with ECOOP)*
 
 # Community Effort
 
+ 1. <a href="http://2017.ecoop.org/committee/ecoop-2017-artifacts-artifact-evaluation-committee" target="_blank">ECOOP 2017 Artifact Evaluation Committee</a>
  1. <a href="http://2016.splashcon.org/track/splash-2016-artifacts" target="_blank">OOPSLA 2016 Artifact Evaluation Committee</a>
  1. <a href="http://lampwww.epfl.ch/~hmiller/scala2014/" target="_blank">Annual Scala Workshop 2014</a> - local arrangements
  1. <a href="http://ecoop14.it.uu.se/" target="_blank">ECOOP 2014</a> - web master
