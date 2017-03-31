@@ -43,7 +43,8 @@ This paper is the suggested introductory paper. It covers the tool, its
 architecture, and two simple use cases that illustrate the capabilities of the
 system. To appear (International Conference on Mining Software Repositories
 2017),
-[preprint (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_msr.pdf?raw=true)
+[preprint (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_msr.pdf?raw=true),
+[citation (bib)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_msr_citation.bib?raw=true)
 
 #### "Mining for Safety using Interactive Trace Analysis”
 
@@ -54,7 +55,8 @@ certain property like uniqueness or immutability. For such classes, the
 existence of a static property might hold -- we have generated a hypothesis. To
 appear (Workshop on Quantitative Aspects of Programming Languages and Systems
 2017)
-[preprint (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_qapl.pdf?raw=true)
+[preprint (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_qapl.pdf?raw=true),
+[citation (bib)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_qapl_citation.bib?raw=true)
 
 # Presentations
 
