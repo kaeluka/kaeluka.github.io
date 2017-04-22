@@ -52,11 +52,13 @@ This paper is an application of Spencer; it mostly uses Spencer's API to look
 for evidence for static properties that are hidden in Java programs. One example
 for this is looking for classes of which all instances (or none) fulfilled a
 certain property like uniqueness or immutability. For such classes, the
-existence of a static property might hold -- we have generated a hypothesis. To
-appear (Workshop on Quantitative Aspects of Programming Languages and Systems
+existence of a static property might hold -- we have generated a hypothesis.
+(Workshop on Quantitative Aspects of Programming Languages and Systems
 2017)
 [preprint (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_qapl.pdf?raw=true),
-[citation (bib)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_qapl_citation.bib?raw=true)
+[citation (bib)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/spencer_qapl_citation.bib?raw=true),
+[slides (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/qapl_presentation.pdf?raw=true),
+[slides (keynote)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/qapl_presentation.key?raw=true).
 
 # Presentations
 
