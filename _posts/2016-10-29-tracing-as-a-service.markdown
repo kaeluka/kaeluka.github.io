@@ -62,6 +62,11 @@ existence of a static property might hold -- we have generated a hypothesis.
 
 # Presentations
 
+I presented Spencer, including a demo, at IWACO 2017, co-located with ECOOP and PLDI.
+
+ - [Slides (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/iwaco_presentation.pdf?raw=true)
+ - [Slides (keynote)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/iwaco_presentation.key?raw=true)
+
 I presented the project at a meeting with some colleagues from Uppsala
 University's computer architecture group:
 
