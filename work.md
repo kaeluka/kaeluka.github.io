@@ -50,6 +50,11 @@ I'm working on two projects:
    [(pdf)](https://www.it.uu.se/research/upmarc/seminars/2013-02-11/intro.pdf) -
    Johan Östlund, Stephan Brandauer, Tobias Wrigstad; *Languages for
    the Multi-core Era 2012 (co-located with ECOOP)*
+   
+# Supervision
+
+  1. I supervised Erik Fransson's bachelor thesis project on implementing
+     asynchronous IO in Encore.
 
 # Community Effort
 
