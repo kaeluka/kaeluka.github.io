@@ -8,9 +8,7 @@ I'm a PhD student at <a href="http://www.uu.se" target="_blank">Uppsala
 University</a>, Sweden. My advisor is <a
 href="http://www.it.uu.se/katalog/writo649" target="_blank">Tobias Wrigstad</a>,
 my co-advisor is <a href="http://www.it.uu.se/katalog/davcl820"
-target="_blank">Dave Clarke</a>. **We're offering <a
-href="http://www.it.uu.se/research/group/languages/exjobb"
-target="_blank">thesis projects</a>.**
+target="_blank">Dave Clarke</a>. 
 
 I'm working on two projects:
 
