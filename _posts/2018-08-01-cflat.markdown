@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Paper: C♭: A New Approach to Efficient and Tunable Collections"
+date:   2018-08-01 11:42:25 +0200 
+categories: work
+comments: true
+permalink: cflat
+---
+Stephan Brandauer, Elias Castegren, Tobias Wrigstad; Onward!'18 - 
+https://2018.onward-conference.org/track/onward-2018-papers
+
+# Abstract
+
+Collections are commonly implemented as libraries by data structure experts, and
+are relied on heavily by application developers. The expert’s task is to
+implement a wide range of collections, and the application developer’s task is
+to pick an appropriate collection for each usage scenario. The design space for
+collections is huge, as data structures in practice implement not only their
+semantics, but also several performance-related concerns like memory layout,
+synchronisation, and (im)mutability.
+
+This paper presents C♭, pronounced “C-flat”, a novel way to implement
+collections that lets experts implement the semantics of a collection data
+structure, in a way that is decoupled from its data representation. This
+simplifies collection implementation, and allows a collection’s performance to
+be tuned, for example, moving from a dense to a sparse representation, without
+changing its abstract specification.
+
+We describe C♭, both abstractly and in terms of a specific prototype
+implementation in Java. We use our prototype implementation to show that C♭ is
+expressive enough to implement common collections, that the code is
+straightforward, and that the performance of C♭ collections is close to Java’s
+standard collections for most operations, and much higher for some.
+
+# Download
+ - [Preprint (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/cflat_onward.pdf?raw=true)

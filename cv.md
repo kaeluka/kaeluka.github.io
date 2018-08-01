@@ -4,6 +4,7 @@ title: CV
 permalink: /cv/
 layout: no-title-page
 ---
+<a href="https://github.com/kaeluka/cv/raw/master/cv_brandauer.pdf">Direct link (pdf)</a>
 
 <a href="https://github.com/kaeluka/cv/raw/master/cv_brandauer.pdf">cv_brandauer.pdf (direct link)</a>
 
