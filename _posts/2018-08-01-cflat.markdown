@@ -7,7 +7,7 @@ comments: true
 permalink: cflat
 ---
 Stephan Brandauer, Elias Castegren, Tobias Wrigstad; Onward!'18 - 
-https://2018.onward-conference.org/track/onward-2018-papers
+[https://2018.onward-conference.org/track/onward-2018-papers](https://2018.onward-conference.org/track/onward-2018-papers)
 
 # Abstract
 
