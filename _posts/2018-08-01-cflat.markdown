@@ -34,3 +34,4 @@ standard collections for most operations, and much higher for some.
 
 # Download
  - [Preprint (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/cflat_onward.pdf?raw=true)
+ - [Slides (pdf)](https://github.com/kaeluka/kaeluka.github.io/blob/master/assets/cflat_slides.pdf?raw=true)
