@@ -15,6 +15,7 @@ url: "http://stbr.me" # the base hostname & protocol for your site
 twitter_username: sbrandauer
 github_username:  kaeluka
 linkedin_username:  stephan-brandauer
+instagram_username:  kaelukaphotos
 
 # Build settings
 markdown: kramdown
