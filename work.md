@@ -17,13 +17,17 @@ I'm working on several projects:
    Domains
    [(Abstract, Slides, Preprint)]({{ site.baseurl }}/Disjointness-Domains-for-Fine-Grained-Aliasing),
    a novel type abstraction for alias control. 
- 2. Also in the Structured Aliasing project, we are currently working
-   on [Spencer]({{ site.baseurl }}/spencer), a tool that makes it trivial
-   for a wider audience to get insights about the behaviour of programs
+ 2. I have built [Spencer]({{ site.baseurl }}/spencer), a tool that makes it
+   trivial for a wider audience to get insights about the behaviour of programs
    running on the JVM.
- 3. In the UPSCALE project, I work on the compiler and the runtime of
-   the parallel OO+functional language called 'Encore'
-   [(Abstract, Preprint, Paper)]({{ site.baseurl }}/Encore-Glimpse).
+ 3. I have built C♭, a domain-specific language to develop tree-like data
+    structures that can be easily specialised, modularly and at runtime, to
+    achieve performance close to (and sometimes much better for our
+    micro-benchmarks) data structures that are much more heavily optimised
+    [(Abstract, Preprint, Paper)]({{ site.baseurl }}/cflat).
+ 3. In the UPSCALE project, I have worked on the compiler and the runtime of the
+   parallel OO+functional language called 'Encore' [(Abstract, Preprint,
+   Paper)]({{ site.baseurl }}/Encore-Glimpse).
 
 # Publications
 
