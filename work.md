@@ -31,16 +31,18 @@ I'm working on several projects:
 
 # Publications
 
- 1. **Spencer: Interactive Heap Analysis for the Masses** - Stephan Brandauer,
+ 1. **C♭: A New Approach to Efficient and Tunable Collections** - Stephan Brandauer,
+    Elias Castegren, Tobias Wrigstad; *Onward!’18* [(project page with paper, and information)]({{ site.baseurl }}/cflat)
+ 2. **Spencer: Interactive Heap Analysis for the Masses** - Stephan Brandauer,
     Tobias Wrigstad; *International Conference on Mining Software Repositories
     2017* [(project page with paper, and information)](../spencer)
- 2. **Mining for Safety using Interactive Trace Analysis** - Stephan Brandauer,
+ 3. **Mining for Safety using Interactive Trace Analysis** - Stephan Brandauer,
     Tobias Wrigstad; *Workshop on Quantitative Analysis of Programming Languages
     2017* [(project page with paper, and information)](../spencer)
- 3. **Disjointness Domains for Fine-Grained Aliasing** - Stephan Brandauer, Dave
+ 4. **Disjointness Domains for Fine-Grained Aliasing** - Stephan Brandauer, Dave
    Clarke, Tobias Wrigstad; *OOPSLA'15*
    [(Abstract, Slides, Preprint)]({{ site.baseurl }}/Disjointness-Domains-for-Fine-Grained-Aliasing)
- 4. **Parallel Objects for Multicores: A Glimpse at the Parallel
+ 5. **Parallel Objects for Multicores: A Glimpse at the Parallel
    Language Encore** [(Abstract, Preprint, Paper)]({{ site.baseurl
    }}/Encore-Glimpse) - Stephan Brandauer, Elias Castegren, Dave
    Clarke, Francisco Fernández, Einar Broch Johnsen, Ka I Pun,
@@ -48,7 +50,7 @@ I'm working on several projects:
    *SFM'15 (15th International School on Formal Methods for the Design
    of Computer, Communication and Software Systems: Multicore
    Programming)*
- 5. **Evolving Java Programs Along Two Axes of Parallel Eval**
+ 6. **Evolving Java Programs Along Two Axes of Parallel Eval**
    [(pdf)](https://www.it.uu.se/research/upmarc/seminars/2013-02-11/intro.pdf) -
    Johan Östlund, Stephan Brandauer, Tobias Wrigstad; *Languages for
    the Multi-core Era 2012 (co-located with ECOOP)*
