@@ -10,7 +10,7 @@ href="http://www.it.uu.se/katalog/writo649" target="_blank">Tobias Wrigstad</a>,
 my co-advisor was <a href="http://www.it.uu.se/katalog/davcl820"
 target="_blank">Dave Clarke</a>. 
 
-I'm was working on several projects:
+I was working on several projects:
 
  1. In the Structured Aliasing project (my main project), we developed
    Disjointness
