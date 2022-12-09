@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Research
+permalink: /research/
 ---
 
-I'm a PhD student at <a href="http://www.uu.se" target="_blank">Uppsala
-University</a>, Sweden. My advisor is <a
+I was a PhD student at <a href="http://www.uu.se" target="_blank">Uppsala
+University</a>, Sweden. My advisor was <a
 href="http://www.it.uu.se/katalog/writo649" target="_blank">Tobias Wrigstad</a>,
-my co-advisor is <a href="http://www.it.uu.se/katalog/davcl820"
+my co-advisor was <a href="http://www.it.uu.se/katalog/davcl820"
 target="_blank">Dave Clarke</a>. 
 
-I'm working on several projects:
+I'm was working on several projects:
 
  1. In the Structured Aliasing project (my main project), we developed
    Disjointness
